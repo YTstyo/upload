@@ -65,6 +65,10 @@
         {
             "store_name": "Zero Time",
             "url": "https://shop103982230.taobao.com"
+        },
+        {
+            "store_name": "China Factory",
+            "url": "https://weidian.com/?userid=1819855761"
         }
     ],
     "fog": [
@@ -569,28 +573,12 @@
     ],
     "essentials": [
         {
-            "store_name": "Abcversion",
-            "url": "https://abcversion.x.yupoo.com"
+            "store_name": "Gman club",
+            "url": "https://shop33564382.m.taobao.com/"
         },
         {
-            "store_name": "Avastocklux",
-            "url": "http://ava2356.x.yupoo.com"
-        },
-        {
-            "store_name": "Ezreps",
-            "url": "https://ezreps.x.yupoo.com"
-        },
-        {
-            "store_name": "Fakelab",
-            "url": "https://fakelab.x.yupoo.com"
-        },
-        {
-            "store_name": "Gmanclub",
-            "url": "https://gmanclub.taobao.com"
-        },
-        {
-            "store_name": "Jasonreps",
-            "url": "https://lanbo325.x.yupoo.com/collections/3213764"
+            "store_name": "Falcon",
+            "url": "https://shop65499167z0567.1688.com/"
         }
     ],
     "fendi": [
@@ -861,6 +849,12 @@
         {
             "store_name": "Fanfan",
             "url": "https://shop516543551.taobao.com"
+        }
+    ],
+    "lavin": [
+        {
+            "store_name": "China Factory",
+            "url": "https://weidian.com/?userid=1819855761"
         }
     ],
     "palm angels": [
@@ -1283,6 +1277,10 @@
         {
             "store_name": "Topmade",
             "url": "https://weidian.com/?userid=1238871281&spider_token=0cc1&tabType=all"
+        },
+        {
+            "store_name": "China Factory",
+            "url": "https://weidian.com/?userid=1819855761"
         }
     ],
     "jordan": [
@@ -1301,6 +1299,10 @@
         {
             "store_name": "Topmade",
             "url": "https://weidian.com/?userid=1238871281&spider_token=0cc1&tabType=all"
+        },
+        {
+            "store_name": "China Factory",
+            "url": "https://weidian.com/?userid=1819855761"
         }
     ],
     "New Balance": [
@@ -1315,6 +1317,10 @@
         {
             "store_name": "Topmade",
             "url": "https://weidian.com/?userid=1238871281&spider_token=0cc1&tabType=all"
+        },
+        {
+            "store_name": "China Factory",
+            "url": "https://weidian.com/?userid=1819855761"
         }
     ],
     "Trapstar": [
